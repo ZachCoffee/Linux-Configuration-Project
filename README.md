@@ -14,7 +14,7 @@ Public IP:18.188.228.241
 SSH Port: 2200
 Web Application URL: http://ec2-18-218-1-37.us-east-2.compute.amazonaws.com
 
-Note: Please use the web application URL to launch the Item Catalog application
+*** Note: Please use the web application URL to launch the Item Catalog application
 ___________________________________________________________________
 
 Steps for Configuration:
